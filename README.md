@@ -19,7 +19,7 @@ Run the application using the command `flask run`
 
 ## Screenshots
 ### On accessing the index page
-<img width="1440" alt="Screenshot 2019-03-20 at 15 00 52" src="https://user-images.githubusercontent.com/26184534/54682820-01571900-4b21-11e9-9913-43f508613f1f.png">
+<img width="1291" alt="Screenshot 2019-03-20 at 15 06 29" src="https://user-images.githubusercontent.com/26184534/54683158-fe105d00-4b21-11e9-9a03-d138d546c164.png">
 
 ### On clicking on any of the buckets, or on the files button in the nav bar
 <img width="1440" alt="Screenshot 2019-03-20 at 12 47 25" src="https://user-images.githubusercontent.com/26184534/54682778-df5d9680-4b20-11e9-80b2-971512f1b901.png">
